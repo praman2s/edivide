@@ -1,4 +1,4 @@
-edivide
+eDiViDe
 =======
 
 http://www.edivide.eu/
